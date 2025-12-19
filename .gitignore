@@ -1,0 +1,14 @@
+# Compiled output
+out/
+bin/
+target/
+
+# IntelliJ / IDE files
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
